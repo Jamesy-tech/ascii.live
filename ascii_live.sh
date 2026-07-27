@@ -1,0 +1,11 @@
+curl ascii.live/rick
+curl ascii.live/donut
+curl ascii.live/dvd
+curl ascii.live/forrest
+curl ascii.live/nyan
+curl ascii.live/batman
+curl ascii.live/playstation
+curl ascii.live/bnr
+curl ascii.live/coin
+curl ascii.live/knot
+curl ascii.live/can-you-hear-me
