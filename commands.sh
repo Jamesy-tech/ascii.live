@@ -20,7 +20,6 @@ curl ascii.live/purdue
 curl ascii.live/kitty
 curl ascii.live/spidyswing
 curl ascii.live/parrot
-curl ascii.live/purdue
 
 # --- Other ---
 curl wttr.in
