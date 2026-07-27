@@ -23,3 +23,7 @@ curl ascii.live/parrot
 
 # --- Other ---
 curl wttr.in
+curl wttr.in/Moon
+
+# --- List ---
+curl ascii.live/list
